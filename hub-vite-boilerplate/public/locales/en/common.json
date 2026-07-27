@@ -1,0 +1,87 @@
+{
+  "app": {
+    "name": "Hub App",
+    "tagline": "Production-ready enterprise app"
+  },
+  "nav": {
+    "home": "Home",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout",
+    "login": "Login"
+  },
+  "auth": {
+    "login": {
+      "title": "Login",
+      "subtitle": "Enter your credentials",
+      "email": "Email",
+      "email_placeholder": "email@example.com",
+      "password": "Password",
+      "password_placeholder": "••••••••",
+      "submit": "Login",
+      "success": "Login successful!"
+    },
+    "logout": {
+      "success": "Logged out successfully"
+    }
+  },
+  "validation": {
+    "required": "{{field}} is required",
+    "email_invalid": "Invalid email format",
+    "min_length": "Minimum {{min}} characters",
+    "max_length": "Maximum {{max}} characters"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "search": "Search",
+    "filter": "Filter",
+    "reset": "Reset",
+    "submit": "Submit",
+    "confirm": "Confirm",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "loading": "Loading...",
+    "no_data": "No data",
+    "see_all": "See All",
+    "get_started": "Get Started"
+  },
+  "table": {
+    "total": "Total {{count}} records",
+    "per_page": "per page"
+  },
+  "toast": {
+    "save_success": "Data saved successfully",
+    "delete_success": "Data deleted successfully",
+    "error_generic": "Something went wrong, please try again"
+  },
+  "theme": {
+    "light": "Light Mode",
+    "dark": "Dark Mode",
+    "toggle": "Toggle Theme"
+  },
+  "language": {
+    "label": "Language",
+    "id": "Indonesian",
+    "en": "English"
+  },
+  "home": {
+    "title": "Hub Vite Boilerplate",
+    "subtitle": "Production-ready React stack — React Query, Zustand, Axios, Ant Design 6.",
+    "badge": "Boilerplate v1.0",
+    "switch_dark": "Switch to Dark",
+    "switch_light": "Switch to Light",
+    "test_toast": "Test Toast",
+    "toast_test_message": "Toast is working!"
+  },
+  "404": {
+    "title": "Page Not Found",
+    "subtitle": "The page you are looking for does not exist.",
+    "back_home": "Back to Home"
+  }
+}

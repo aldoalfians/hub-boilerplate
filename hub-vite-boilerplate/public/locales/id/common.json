@@ -1,0 +1,87 @@
+{
+  "app": {
+    "name": "Hub App",
+    "tagline": "Aplikasi enterprise siap produksi"
+  },
+  "nav": {
+    "home": "Beranda",
+    "profile": "Profil",
+    "settings": "Pengaturan",
+    "logout": "Keluar",
+    "login": "Masuk"
+  },
+  "auth": {
+    "login": {
+      "title": "Masuk",
+      "subtitle": "Masukkan kredensial Anda",
+      "email": "Email",
+      "email_placeholder": "email@contoh.com",
+      "password": "Kata Sandi",
+      "password_placeholder": "••••••••",
+      "submit": "Masuk",
+      "success": "Login berhasil!"
+    },
+    "logout": {
+      "success": "Berhasil keluar"
+    }
+  },
+  "validation": {
+    "required": "{{field}} wajib diisi",
+    "email_invalid": "Format email tidak valid",
+    "min_length": "Minimal {{min}} karakter",
+    "max_length": "Maksimal {{max}} karakter"
+  },
+  "common": {
+    "save": "Simpan",
+    "cancel": "Batal",
+    "delete": "Hapus",
+    "edit": "Ubah",
+    "add": "Tambah",
+    "search": "Cari",
+    "filter": "Filter",
+    "reset": "Atur Ulang",
+    "submit": "Kirim",
+    "confirm": "Konfirmasi",
+    "close": "Tutup",
+    "back": "Kembali",
+    "next": "Selanjutnya",
+    "previous": "Sebelumnya",
+    "loading": "Memuat...",
+    "no_data": "Tidak ada data",
+    "see_all": "Lihat Semua",
+    "get_started": "Mulai"
+  },
+  "table": {
+    "total": "Total {{count}} data",
+    "per_page": "per halaman"
+  },
+  "toast": {
+    "save_success": "Data berhasil disimpan",
+    "delete_success": "Data berhasil dihapus",
+    "error_generic": "Terjadi kesalahan, silakan coba lagi"
+  },
+  "theme": {
+    "light": "Mode Terang",
+    "dark": "Mode Gelap",
+    "toggle": "Ganti Tema"
+  },
+  "language": {
+    "label": "Bahasa",
+    "id": "Indonesia",
+    "en": "English"
+  },
+  "home": {
+    "title": "Hub Vite Boilerplate",
+    "subtitle": "Stack React siap produksi — React Query, Zustand, Axios, Ant Design 6.",
+    "badge": "Boilerplate v1.0",
+    "switch_dark": "Ganti ke Gelap",
+    "switch_light": "Ganti ke Terang",
+    "test_toast": "Uji Notifikasi",
+    "toast_test_message": "Notifikasi berjalan!"
+  },
+  "404": {
+    "title": "Halaman Tidak Ditemukan",
+    "subtitle": "Halaman yang Anda cari tidak ada.",
+    "back_home": "Kembali ke Beranda"
+  }
+}

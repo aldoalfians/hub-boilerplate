@@ -1,0 +1,31 @@
+{
+  "app": { "name": "Hub App", "tagline": "Production-ready enterprise app" },
+  "nav": { "home": "Home", "profile": "Profile", "settings": "Settings", "logout": "Logout", "login": "Login" },
+  "auth": {
+    "login": "Login",
+    "loginSubtitle": "Enter your credentials",
+    "email": "Email",
+    "password": "Password"
+  },
+  "validation": {
+    "required": "This field is required",
+    "email": "Invalid email format"
+  },
+  "common": {
+    "save": "Save", "cancel": "Cancel", "delete": "Delete", "edit": "Edit",
+    "add": "Add", "search": "Search", "filter": "Filter", "reset": "Reset",
+    "submit": "Submit", "confirm": "Confirm", "close": "Close", "back": "Back",
+    "next": "Next", "previous": "Previous", "loading": "Loading...",
+    "no_data": "No data", "see_all": "See All", "get_started": "Get Started"
+  },
+  "table": { "total": "Total {{count}} records", "per_page": "per page" },
+  "toast": {
+    "save_success": "Data saved successfully",
+    "delete_success": "Data deleted successfully",
+    "error_generic": "Something went wrong, please try again"
+  },
+  "theme": { "light": "Light Mode", "dark": "Dark Mode", "toggle": "Toggle Theme" },
+  "language": { "label": "Language", "id": "Indonesian", "en": "English" },
+  "home": { "welcome": "Welcome", "title": "Hub Next.js Boilerplate" },
+  "404": { "title": "Page Not Found", "subtitle": "The page does not exist.", "back_home": "Back to Home" }
+}
